@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SIEM and SOAR implementation**
 
-- 📫 I’m currently learning **AWS, Azure, Threat Hunting and Digital Forsensic**
+- 📫 I’m currently learning **AWS, Azure, Threat Hunting, Digital Forsensic and Reverse Engineering**
 
 - ✉ You can reach me **myatkyawkaung2204@gmail.com**
 
