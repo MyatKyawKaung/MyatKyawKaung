@@ -31,12 +31,12 @@
 
 |  **Project Title**                            | **Status**   |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis  | <p align="center"> <a href="https://github.com/MyatKyawKaung/SIEM-Lab">Done</a> </p> |
-| Network Traffic Monitoring and Attack Detection  | <p align="center"> <a href="https://github.com/MyatKyawKaung/Snort">Done</a> </p> |
-| Investigating Malware Using Memory Forensic  | <p align="center">In Progress</p> |
+| SIEM Implementation and Log Analysis  | <p align="center"> <a href="https://github.com/MyatKyawKaung/SIEM-Lab"> Done</a> </p> |
+| Network Traffic Monitoring and Attack Detection  | <p align="center"> <a href="https://github.com/MyatKyawKaung/Snort"> Done</a> </p> |
+| Investigating Malware Using Memory Forensic  | <p align="center"> In Progress</p> |
 | File Intergrity Monitoring  | <p align="center"> In Progress </p> |
-| Vulnerability Assessment and Risk Mitigation  | <p align="center">In Progress </p> |
-| Automating AWS VPC Provisioning  | <p align="center"> <a href="https://github.com/MyatKyawKaung/Terraform-Lab">Done</a> </p> |
+| Vulnerability Assessment and Risk Mitigation  | <p align="center"> <a href="https://github.com/MyatKyawKaung/Vulnerability-Assessment"> In Progress </p> |
+| Automating AWS VPC Provisioning  | <p align="center"> <a href="https://github.com/MyatKyawKaung/Terraform-Lab"> Done</a> </p> |
 
 ## Technologies
 
