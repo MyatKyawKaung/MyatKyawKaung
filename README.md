@@ -61,3 +61,9 @@
     <img src="https://img.shields.io/badge/-Velociraptor-3C873A?style=for-the-badge&logo=Velociraptor&logoColor=white" alt="Velociraptor"/>
 </div>
 
+### Memory Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Volatility3-2F4F4F?&style=for-the-badge&logoColor=white" alt="Volatility3"/>
+    <img src="https://img.shields.io/badge/-Volatility2-FF0000?&style=for-the-badge&logoColor=white" alt="Volatility2"/>
+</div>
+
