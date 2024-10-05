@@ -45,6 +45,7 @@
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft-Sentinel&logoColor=white" alt="Microsoft Sentinel"/>
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk"/>
     <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" alt="Elastic"/>
+    <img src="https://img.shields.io/badge/-Wazuh-0078D7?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
 </div>
 
 ### Network Analysis
