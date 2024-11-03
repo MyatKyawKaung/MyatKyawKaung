@@ -32,7 +32,7 @@
 
 |  **Skills**                            | **Associated Projects** |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis  | <p align="center"> <a href="https://github.com/MyatKyawKaung/SIEM-Lab"> SIEM-Lab</a> </p> |
+| SIEM Implementation and Detection Engineering | <p align="center"> <a href="https://github.com/MyatKyawKaung/SIEM-Lab"> SIEM-Lab</a> </p> |
 | Intrusion Detection and Network Traffic Analysis  | <p align="center"> <a href="https://github.com/MyatKyawKaung/Snort"> Snort </a>, <a href="https://github.com/MyatKyawKaung/Network-Traffic-Analysis"> Wireshark </a> </p> |
 | Investigating Malware Using Memory Forensic  | <p align="center"> In Progress</p> |
 | File Intergrity Monitoring  | <p align="center"> <a href="https://github.com/MyatKyawKaung/File-Integrity-Monitoring-Lab"> FIM-Lab </a> </p> |
@@ -41,7 +41,7 @@
 
 ## Technologies
 
-### SIEM
+### Log Analysis
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft-Sentinel&logoColor=white" alt="Microsoft Sentinel"/>
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk"/>
@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/-Suricata-FF4500?&style=for-the-badge&logo=Suricata&logoColor=white" alt="Suricata"/>
 </div>
 
-### Endpoint
+### Endpoint Forensics
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender-0078D4?&style=for-the-badge&logo=Microsoft-Defender&logoColor=white" alt="Microsoft Defender"/>
     <img src="https://img.shields.io/badge/-Trend_Micro-D71921?style=for-the-badge&logo=Trend-Micro&logoColor=white" alt="Trend Micro"/>
