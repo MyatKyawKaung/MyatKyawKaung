@@ -31,7 +31,7 @@
 
 |  **Skills**                            | **Associated Projects** |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Detection Engineering | <p align="center"> <a href="https://github.com/MyatKyawKaung/SIEM-Lab"> SIEM-Lab</a> </p> |
+| Security Operation Implementation & Detection Engineering | <p align="center"> <a href="https://github.com/MyatKyawKaung/Azure-Security-Operations-Lab"> Azure-Security-Operation-Lab </a> , <a href="https://github.com/MyatKyawKaung/SIEM-Lab"> SIEM-Lab </a> </p> |
 | Intrusion Detection and Network Traffic Analysis  | <p align="center"> <a href="https://github.com/MyatKyawKaung/Snort"> Snort </a>, <a href="https://github.com/MyatKyawKaung/Network-Traffic-Analysis"> Wireshark </a> </p> |
 | Investigating Malware Using Memory Forensic  | <p align="center"> In Progress</p> |
 | File Intergrity Monitoring  | <p align="center"> <a href="https://github.com/MyatKyawKaung/File-Integrity-Monitoring-Lab"> FIM-Lab </a> </p> |
