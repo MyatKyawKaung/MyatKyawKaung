@@ -33,7 +33,7 @@
 |-----------------------------------------------|----------------------------|
 | Security Operation Implementation & Detection Engineering | <p align="center"> <a href="https://github.com/MyatKyawKaung/SIEM-Lab"> Splunk </a>, <a href="https://github.com/MyatKyawKaung/Azure-Security-Operations-Lab"> Sentinel </a> </p> |
 | Intrusion Detection and Network Traffic Analysis  | <p align="center"> <a href="https://github.com/MyatKyawKaung/Snort"> Snort </a>, <a href="https://github.com/MyatKyawKaung/Network-Traffic-Analysis"> Wireshark </a> </p> |
-| Investigate Malware Using Memory Forensic Techniques | <p align="center"> In Progress</p> |
+| Investigate Malware Using Memory Forensic Techniques | <p align="center"> <a href="https://github.com/MyatKyawKaung/Memory-Forensics"> Forensic Labs </a> </p> |
 | File Intergrity Monitoring (DLP) | <p align="center"> <a href="https://github.com/MyatKyawKaung/File-Integrity-Monitoring-Lab"> FIM-Lab </a> </p> |
 | Vulnerability Assessment and Risk Mitigation  | <p align="center"> <a href="https://github.com/MyatKyawKaung/Vulnerability-Assessment"> In Progress </p> |
 | Automate Cloud Infrastructure (IaC) | <p align="center"> <a href="https://github.com/MyatKyawKaung/Terraform-Lab"> Terraform-Lab</a> </p> |
