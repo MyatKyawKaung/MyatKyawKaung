@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Myat Kyaw Kaung</h1>
 <h2 align="center">A passionate cybersecurity professional from Myanmar</h2>
 
-**With 2years of experience in IT specifically in network & security operation domain, I have developed a strong passion for cybersecurity. I am eager to leverage my technical skills and knowledge to contribute to a dynamic security team as a Tier 1 SOC Analyst.**
+Over 3years of experience in IT specifically in security & operation domain, I have developed a strong passion for cybersecurity. I am eager to leverage my technical skills and knowledge to contribute to a dynamic security team as a Tier 1 SOC Analyst.**
 
-- 🔭 I’m currently working on **SIEM and SOAR implementation**
+- 🔭 I’m currently working on **AWS, Azure, Threat Hunting, Digital Forsensic and AI**
 
-- 📫 I’m currently learning **AWS, Azure, Threat Hunting, Digital Forsensic and AI**
+- 📫 I’m currently learning **Agentic AI and SOAR implementation** 
 
 - ✉ You can reach me **myatkyawkaung2204@gmail.com**
 
