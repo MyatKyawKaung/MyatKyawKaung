@@ -100,18 +100,6 @@ Current focus areas:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MyatKyawKaung&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyatKyawKaung&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## Connect
 
 - LinkedIn: [linkedin.com/in/mkkaung](https://www.linkedin.com/in/mkkaung/)
