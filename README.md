@@ -43,7 +43,6 @@ Current focus areas:
 | Memory Forensics | [Memory-Forensics](https://github.com/MyatKyawKaung/Memory-Forensics) | Malware and forensic investigation using memory artifacts. |
 | File Integrity Monitoring | [File-Integrity-Monitoring-Lab](https://github.com/MyatKyawKaung/File-Integrity-Monitoring-Lab) | Wazuh FIM lab for monitoring file changes. |
 | Vulnerability Management | [Vulnerability-Assessment](https://github.com/MyatKyawKaung/Vulnerability-Assessment) | Vulnerability assessment and risk mitigation with Nessus. |
-| Automation | [Scripts](https://github.com/MyatKyawKaung/Scripts) | Centralized automation scripts for security and operations tasks. |
 
 ---
 
